@@ -1,0 +1,1 @@
+INSERT INTO `#__billing_actions` (`component`, `action`, `title`, `is_free`) VALUES ('usermaps', 'add_place', 'Добавление места', 1);

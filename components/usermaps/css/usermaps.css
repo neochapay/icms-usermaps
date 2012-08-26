@@ -1,0 +1,109 @@
+#YMapsID
+{
+  width:600px;
+  height:400px;
+  float:left;
+}
+
+#pluginmaps{
+  width: 100%;
+  height: 350px;
+}
+
+.pointinfo{
+  min-height: 400px;
+  padding-left: 610px;
+}
+
+.pointinfo h1{
+  text-align: center;
+  display: block;
+  font-size: 18px;
+  padding-bottom: 10px;
+}
+
+.pointinfo IMG {
+  float: left;
+  margin-right: 10px;
+}
+
+.pointinfo ul{
+  -webkit-padding-start: 0px;
+  -webkit-margin-before: 0px;
+  -webkit-margin-after: 0px;
+  list-style-type: none;
+  display: inline-block;
+  margin-left: -30px;
+}
+
+.pointinfo .title{
+  width: 100px;
+  display: block;
+  float: left;
+}
+
+.poi UL{
+  list-style-type: none;
+}
+
+.poi LI{
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.poi IMG{
+  margin-bottom: -10px;
+  padding-right: 20px;
+}
+
+.poi A{
+  text-decoration: none;
+}
+
+#checkin
+{
+  background-color: #1F3147;
+  padding: 5px;
+  margin: 15px;
+  color: #fff;
+  text-align: center;
+  font-size: 18px;
+  border-radius: 8px;
+  -moz-border-radius: 8px;
+  -moz-box-shadow: 0 2px 0 #000;
+  cursor: pointer;
+}
+
+.arround{
+  padding-top: 20px;
+}
+
+.arround H1{
+  color: #09C;
+  font-size: 18px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+}
+
+.arroundpoint{
+  display: block;
+  height: 45px;
+}
+
+/* YANDEX MAP API v2 styles */
+.ymaps-b-balloon__content-head {
+  margin-left: 45px;
+}
+
+.ymaps-b-balloon__content-body{
+  margin-top: -20px;
+}
+
+.ymaps-b-balloon__content-body IMG{
+  padding-right: 10px;
+}
+
+.ymaps-b-balloon__content-body A{
+  text-decoration: none;
+}

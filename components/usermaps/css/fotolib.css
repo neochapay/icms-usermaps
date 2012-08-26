@@ -1,0 +1,17 @@
+#fotolib_img{
+  width: 100%;
+}
+
+#fotolib_img UL
+{
+  height: 130px;
+  list-style: none;
+}
+
+#fotolib_img LI
+{
+  max-width: 100px;
+  max-height: 100px;
+  display: inline-block;
+  padding: 2px;
+}
